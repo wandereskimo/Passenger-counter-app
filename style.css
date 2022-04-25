@@ -40,3 +40,18 @@ cursor: pointer;
 button:hover {
     background-color: #CC704B;
 }
+
+p {
+    font-size: 25px;
+    border: 20px;
+    border-color: aliceblue;
+}
+
+#save-el {
+    font-size: 25px;
+    font-weight: bold;
+    background-color: white;
+    margin-left: 130px;
+    margin-right: 130px;
+    padding: 20px 0;
+}
